@@ -1,0 +1,1409 @@
+1664749367244	geckodriver	INFO	Listening on 127.0.0.1:56734
+1664749370309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilexVxRvy"
+1664749371501	Marionette	INFO	Marionette enabled
+1664749371508	Marionette	INFO	Listening on port 56752
+Read port: 56752
+WebDriver BiDi listening on ws://127.0.0.1:56735
+1664749371678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilexVxRvy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56735/devtools/browser/c8924529-d8d3-4112-adf3-e10159d21e45
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1664750247021	Marionette	INFO	Stopped listening on port 56752
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\rust_mozprofilewVV9k7"
+1664749599063	Marionette	INFO	Marionette enabled
+1664749599070	Marionette	INFO	Listening on port 57044
+WebDriver BiDi listening on ws://127.0.0.1:57032
+Read port: 57044
+1664749599402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilewVV9k7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57032/devtools/browser/1dd16542-2df6-4302-82f2-68d2180662e8
+1664749606146	Marionette	INFO	Stopped listening on port 57044
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664749627567	geckodriver	INFO	Listening on 127.0.0.1:57102
+1664749630617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile2E3dJb"
+1664749631153	Marionette	INFO	Marionette enabled
+1664749631160	Marionette	INFO	Listening on port 57116
+Read port: 57116
+WebDriver BiDi listening on ws://127.0.0.1:57103
+1664749631271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile2E3dJb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57103/devtools/browser/177d0176-83e8-459e-9431-83f6d8f75966
+1664749645393	Marionette	INFO	Stopped listening on port 57116
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1664749936631	geckodriver	INFO	Listening on 127.0.0.1:57527
+1664749939693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileLoxrKa"
+1664749940218	Marionette	INFO	Marionette enabled
+1664749940225	Marionette	INFO	Listening on port 57542
+Read port: 57542
+WebDriver BiDi listening on ws://127.0.0.1:57528
+1664749940335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileLoxrKa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57528/devtools/browser/100adfff-fc50-4a34-9bb8-fa5f03505aaf
+1664749946547	Marionette	INFO	Stopped listening on port 57542
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1664749946669	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1664749992728	geckodriver	INFO	Listening on 127.0.0.1:57629
+1664749995790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileZKSmpS"
+1664749996307	Marionette	INFO	Marionette enabled
+1664749996314	Marionette	INFO	Listening on port 57641
+Read port: 57641
+WebDriver BiDi listening on ws://127.0.0.1:57630
+1664749996427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileZKSmpS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57630/devtools/browser/2405f16e-b738-4c62-b540-dcc456265a68
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664549235, line 3518: TypeError: $(...).followPopup is not a function
+1664750247021	Marionette	INFO	Stopped listening on port 57641
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664750247363	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 8748, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664805049455	geckodriver	INFO	Listening on 127.0.0.1:49889
+1664805052452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilebkclhp"
+1664805053432	Marionette	INFO	Marionette enabled
+1664805053439	Marionette	INFO	Listening on port 49899
+Read port: 49899
+WebDriver BiDi listening on ws://127.0.0.1:49890
+1664805053581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilebkclhp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49890/devtools/browser/72cd896f-cbc6-4e82-b911-8028755e691e
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664549235, line 3518: TypeError: $(...).followPopup is not a function
+1664805327043	geckodriver	INFO	Listening on 127.0.0.1:49999
+1664805330143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilefS1J7Z"
+1664805330655	Marionette	INFO	Marionette enabled
+1664805330661	Marionette	INFO	Listening on port 50009
+Read port: 50009
+WebDriver BiDi listening on ws://127.0.0.1:50000
+1664805330802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilefS1J7Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50000/devtools/browser/078fe2e9-f6a6-4891-bc99-b0fc63e70650
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664549235, line 3518: TypeError: $(...).followPopup is not a function
+1664805701366	Marionette	INFO	Stopped listening on port 50009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofiledaYe3B"
+1664805396804	Marionette	INFO	Marionette enabled
+1664805396813	Marionette	INFO	Listening on port 50065
+WebDriver BiDi listening on ws://127.0.0.1:50053
+Read port: 50065
+1664805396954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofiledaYe3B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50053/devtools/browser/34bfcfc2-8160-412f-a75b-002cc0c388c6
+1664805706455	geckodriver	INFO	Listening on 127.0.0.1:50111
+1664805709557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileNgYz1i"
+1664805710064	Marionette	INFO	Marionette enabled
+1664805710070	Marionette	INFO	Listening on port 50121
+WebDriver BiDi listening on ws://127.0.0.1:50112
+Read port: 50121
+1664805710298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileNgYz1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50112/devtools/browser/b8aab203-e6c5-40bd-914d-05e8e333169a
+1664805744724	Marionette	INFO	Stopped listening on port 50121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1664805870276	geckodriver	INFO	Listening on 127.0.0.1:50150
+1664805873369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileIYMlj9"
+1664805873862	Marionette	INFO	Marionette enabled
+1664805873868	Marionette	INFO	Listening on port 50160
+WebDriver BiDi listening on ws://127.0.0.1:50151
+Read port: 50160
+1664805874085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileIYMlj9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50151/devtools/browser/35e0a807-3569-4a81-8444-8ebc2c767cf6
+1664805987821	geckodriver	INFO	Listening on 127.0.0.1:50189
+1664805990906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileZ28MPP"
+1664805991399	Marionette	INFO	Marionette enabled
+1664805991405	Marionette	INFO	Listening on port 50199
+WebDriver BiDi listening on ws://127.0.0.1:50190
+Read port: 50199
+1664805991619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileZ28MPP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50190/devtools/browser/7cac44f3-b6ec-4f6c-9078-e79f660efa36
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664549235, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664798431, line 3518: TypeError: $(...).followPopup is not a function
+1664806302403	geckodriver	INFO	Listening on 127.0.0.1:50267
+1664806305491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilec7TrSO"
+1664806305992	Marionette	INFO	Marionette enabled
+1664806305998	Marionette	INFO	Listening on port 50277
+WebDriver BiDi listening on ws://127.0.0.1:50268
+Read port: 50277
+1664806306216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilec7TrSO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50268/devtools/browser/2c836558-73cd-487d-a732-14d512fc9cc8
+1664806436977	Marionette	INFO	Stopped listening on port 50277
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664806511617	geckodriver	INFO	Listening on 127.0.0.1:50336
+1664806514700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileC976dp"
+1664806515228	Marionette	INFO	Marionette enabled
+1664806515234	Marionette	INFO	Listening on port 50346
+Read port: 50346
+WebDriver BiDi listening on ws://127.0.0.1:50337
+1664806515361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileC976dp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50337/devtools/browser/9686dfd7-5b44-4446-b7a4-2ded277a147d
+1664806541625	Marionette	INFO	Stopped listening on port 50346
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+te	INFO	Marionette enabled
+1664806520685	Marionette	INFO	Listening on port 50379
+Read port: 50379
+WebDriver BiDi listening on ws://127.0.0.1:50355
+1664806520791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileCtSIQN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50355/devtools/browser/3d81549a-b788-4c04-8b4a-73929dbe9255
+1664806541421	Marionette	INFO	Stopped listening on port 50379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilednDIJn"
+1664806526082	Marionette	INFO	Marionette enabled
+1664806526088	Marionette	INFO	Listening on port 50412
+Read port: 50412
+WebDriver BiDi listening on ws://127.0.0.1:50388
+1664806526200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilednDIJn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50388/devtools/browser/4177d392-2eed-4a89-9d62-5cd9ab1af9f0
+1664806540888	Marionette	INFO	Stopped listening on port 50412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileIwyuUv"
+1664806531518	Marionette	INFO	Marionette enabled
+1664806531525	Marionette	INFO	Listening on port 50445
+Read port: 50445
+WebDriver BiDi listening on ws://127.0.0.1:50421
+1664806531637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileIwyuUv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50421/devtools/browser/83b2be21-5333-4bcf-ba51-a70c093b99b0
+1664806542720	Marionette	INFO	Stopped listening on port 50445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1664806542774	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+1664818382616	geckodriver	INFO	Listening on 127.0.0.1:51607
+1664818385579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileEsoY6H"
+1664818386136	Marionette	INFO	Marionette enabled
+1664818386144	Marionette	INFO	Listening on port 51618
+WebDriver BiDi listening on ws://127.0.0.1:51608
+Read port: 51618
+1664818386451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileEsoY6H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51608/devtools/browser/689adff5-4918-41cc-8170-3b08f759b37b
+1664818451294	Marionette	INFO	Stopped listening on port 51618
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+te	INFO	Marionette enabled
+1664818391670	Marionette	INFO	Listening on port 51650
+Read port: 51650
+WebDriver BiDi listening on ws://127.0.0.1:51628
+1664818391798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilehCuaNz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51628/devtools/browser/4a77b96b-86e5-4cc4-aa6a-829c24d73633
+1664818450016	Marionette	INFO	Stopped listening on port 51650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+te	INFO	Marionette enabled
+1664818397165	Marionette	INFO	Listening on port 51687
+Read port: 51687
+WebDriver BiDi listening on ws://127.0.0.1:51666
+1664818397271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilehRn9M4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51666/devtools/browser/57031097-f011-4fc9-96ee-104b221df049
+1664818449703	Marionette	INFO	Stopped listening on port 51687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilecDlQfS"
+1664818402651	Marionette	INFO	Marionette enabled
+1664818402657	Marionette	INFO	Listening on port 51725
+Read port: 51725
+WebDriver BiDi listening on ws://127.0.0.1:51701
+1664818402805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilecDlQfS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51701/devtools/browser/739cc54e-ad2e-4f60-a33c-46a952612606
+1664818449505	Marionette	INFO	Stopped listening on port 51725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileggTVL7"
+1664818408267	Marionette	INFO	Marionette enabled
+1664818408273	Marionette	INFO	Listening on port 51762
+Read port: 51762
+WebDriver BiDi listening on ws://127.0.0.1:51740
+1664818408403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileggTVL7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51740/devtools/browser/07b94f27-640c-4918-947d-632e679f8aa2
+1664818449305	Marionette	INFO	Stopped listening on port 51762
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+te	INFO	Marionette enabled
+1664818414557	Marionette	INFO	Listening on port 51802
+WebDriver BiDi listening on ws://127.0.0.1:51775
+Read port: 51802
+1664818415020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilet8VBz0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51775/devtools/browser/fe38203a-ad68-4cb8-9a84-2bf7ddd24857
+1664818449095	Marionette	INFO	Stopped listening on port 51802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileEZFATc"
+1664818420601	Marionette	INFO	Marionette enabled
+1664818420607	Marionette	INFO	Listening on port 51838
+Read port: 51838
+WebDriver BiDi listening on ws://127.0.0.1:51817
+1664818420742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileEZFATc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51817/devtools/browser/57178069-2b4b-4713-967b-67fae6011783
+1664818448933	Marionette	INFO	Stopped listening on port 51838
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileVTuk5W"
+1664818426179	Marionette	INFO	Marionette enabled
+1664818426185	Marionette	INFO	Listening on port 51877
+Read port: 51877
+WebDriver BiDi listening on ws://127.0.0.1:51854
+1664818426295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileVTuk5W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51854/devtools/browser/74da79c3-0948-4420-b882-024798b985df
+1664818448765	Marionette	INFO	Stopped listening on port 51877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileF7g6x7"
+1664818431922	Marionette	INFO	Marionette enabled
+1664818431928	Marionette	INFO	Listening on port 51917
+Read port: 51917
+WebDriver BiDi listening on ws://127.0.0.1:51893
+1664818432044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileF7g6x7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51893/devtools/browser/d3ee4b8f-fe61-4c97-b22b-8df8b4cc71a1
+1664818448529	Marionette	INFO	Stopped listening on port 51917
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofiled5ljlL"
+1664818437723	Marionette	INFO	Marionette enabled
+1664818437730	Marionette	INFO	Listening on port 51958
+Read port: 51958
+WebDriver BiDi listening on ws://127.0.0.1:51930
+1664818437843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofiled5ljlL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51930/devtools/browser/86e888ca-f82f-40ba-a8f2-9843d368b4eb
+1664818448365	Marionette	INFO	Stopped listening on port 51958
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileCkveCp"
+1664818443346	Marionette	INFO	Marionette enabled
+1664818443358	Marionette	INFO	Listening on port 51994
+Read port: 51994
+WebDriver BiDi listening on ws://127.0.0.1:51969
+1664818443522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileCkveCp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51969/devtools/browser/223f9548-399d-426f-bed2-10aac871f21f
+1664818447787	Marionette	INFO	Stopped listening on port 51991664818449163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilesrMsgf"
+1664818450601	Marionette	INFO	Marionette enabled
+1664818450608	Marionette	INFO	Listening on port 52037
+Read port: 52037
+WebDriver BiDi listening on ws://127.0.0.1:52006
+1664818450844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilesrMsgf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52006/devtools/browser/a4be01a0-cc30-41b5-8c8b-89f84d7879e1
+1664818453733	Marionette	INFO	Stopped listening on port 52037
+console.e1664818456432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileAMePng"
+1664818456918	Marionette	INFO	Marionette enabled
+1664818456925	Marionette	INFO	Listening on port 52062
+1664818706897	geckodriver	INFO	Listening on 127.0.0.1:52346
+1664818709928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile0l8Ks2"
+1664818710488	Marionette	INFO	Marionette enabled
+1664818710495	Marionette	INFO	Listening on port 52359
+Read port: 52359
+WebDriver BiDi listening on ws://127.0.0.1:52347
+1664818710609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile0l8Ks2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52347/devtools/browser/bcd874eb-ffc8-4d79-9376-33803b2c3d5e
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664818824890	Marionette	INFO	Stopped listening on port 52359
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1664818824935	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1664819069942	geckodriver	INFO	Listening on 127.0.0.1:52915
+1664819073014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilerLXN6o"
+1664819073514	Marionette	INFO	Marionette enabled
+1664819073520	Marionette	INFO	Listening on port 52930
+Read port: 52930
+WebDriver BiDi listening on ws://127.0.0.1:52916
+1664819073635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilerLXN6o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52916/devtools/browser/b063dda4-4716-4fce-93fc-75e4aa559aa6
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664819152557	Marionette	INFO	Stopped listening on port 52930
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDiWebDriver BiDi listening on ws://127.0.0.1:53097
+1664819152666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilejPK5ik\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53097/devtools/browser/8c16f308-d021-4298-b07b-a928327ca1ba
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+1664820753080	geckodriver	INFO	Listening on 127.0.0.1:55396
+1664820756117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile8vWBFh"
+1664820756616	Marionette	INFO	Marionette enabled
+1664820756622	Marionette	INFO	Listening on port 55411
+WebDriver BiDi listening on ws://127.0.0.1:55397
+Read port: 55411
+1664820756926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile8vWBFh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55397/devtools/browser/99466de2-a81e-42a4-a811-90631e733b34
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: "Error while destroying front:" "inspector" (new TypeError("this.targetFront is null", "resource://devtools/client/fronts/walker.js", 408))
+console.error: "Failed to start [root-node] legacy listener for target null" (new TypeError("this.targetFront is null", "resource://devtools/client/fronts/walker.js", 408))
+JavaScript error: resource://devtools/client/fronts/walker.js, line 408: TypeError: this.targetFront is null
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967309/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967309/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967309/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:301:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664822020562	Marionette	INFO	Stopped listening on port 55411
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967312/domnode95, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:301:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1664822020645	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+36, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664822164312	Marionette	INFO	Stopped listening on port 56525
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1664822164447	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+ronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+1664822011782	Marionette	INFO	Stopped listening on port 56805
+4821966255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileiti8cI"
+1664821967117	Marionette	INFO	Marionette enabled
+1664821967123	Marionette	INFO	Listening on port 57607
+WebDriver BiDi listening on ws://127.0.0.1:57595
+Read port: 57607
+1664821967443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileiti8cI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57595/devtools/browser/ed41ea65-2ce9-4d8c-b323-3ccf8d96c770
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+1664821996173	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664822159162	Marionette	INFO	Stopped listening on port 57607
+1664822195687	geckodriver	INFO	Listening on 127.0.0.1:58018
+1664822198762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileGmRX3X"
+1664822199281	Marionette	INFO	Marionette enabled
+1664822199287	Marionette	INFO	Listening on port 58031
+Read port: 58031
+WebDriver BiDi listening on ws://127.0.0.1:58019
+1664822199395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileGmRX3X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58019/devtools/browser/cca60b7b-428a-471f-94fd-36e57db131ea
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+1664822409872	Marionette	INFO	Stopped listening on port 58031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664822418427	geckodriver	INFO	Listening on 127.0.0.1:58295
+1664822421492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile5c5B5Z"
+1664822421999	Marionette	INFO	Marionette enabled
+1664822422004	Marionette	INFO	Listening on port 58305
+Read port: 58305
+WebDriver BiDi listening on ws://127.0.0.1:58296
+1664822422130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile5c5B5Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58296/devtools/browser/54aedbcc-ccc5-4186-93f0-787216ad30fb
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+1664822525631	Marionette	INFO	Stopped listening on port 58305
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1664822525770	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1664822556729	geckodriver	INFO	Listening on 127.0.0.1:58491
+1664822559822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile7JPbMw"
+1664822560326	Marionette	INFO	Marionette enabled
+1664822560331	Marionette	INFO	Listening on port 58501
+Read port: 58501
+WebDriver BiDi listening on ws://127.0.0.1:58492
+1664822560457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile7JPbMw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58492/devtools/browser/f41650c6-776b-4866-8645-1fcc07c3da91
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664810636, line 3518: TypeError: $(...).followPopup is not a function
+1664822849377	Marionette	INFO	Stopped listening on port 58501
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664910820050	geckodriver	INFO	Listening on 127.0.0.1:52525
+1664910823032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile4UknEf"
+1664910824096	Marionette	INFO	Marionette enabled
+1664910824104	Marionette	INFO	Listening on port 52541
+Read port: 52541
+WebDriver BiDi listening on ws://127.0.0.1:52526
+1664910824255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile4UknEf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52526/devtools/browser/84b349f8-8f1b-416b-b5a9-a409a2ffdc32
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+1664912021940	geckodriver	INFO	Listening on 127.0.0.1:53745
+1664912025021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileBir2Rl"
+1664912025545	Marionette	INFO	Marionette enabled
+1664912025551	Marionette	INFO	Listening on port 53759
+Read port: 53759
+WebDriver BiDi listening on ws://127.0.0.1:53746
+1664912025661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileBir2Rl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53746/devtools/browser/f5b82d4e-01b4-4dee-baf6-ccdbaa03dd3e
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664891122, line 3518: TypeError: $(...).followPopup is not a function
+1665002418058	geckodriver	INFO	Listening on 127.0.0.1:58868
+1665002421066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile80q5Kz"
+1665002770184	geckodriver	INFO	Listening on 127.0.0.1:59267
+1665002773237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileYOpWI4"
+1665002773769	Marionette	INFO	Marionette enabled
+1665002773776	Marionette	INFO	Listening on port 59281
+Read port: 59281
+WebDriver BiDi listening on ws://127.0.0.1:59268
+1665002773994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileYOpWI4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59268/devtools/browser/f4954f8c-b2f3-409c-8c23-4d084fac9e6d
+1665002776712	Marionette	INFO	Stopped listening on port 59281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665003070889	geckodriver	INFO	Listening on 127.0.0.1:59622
+1665003073978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilegKD6jU"
+1665003074537	Marionette	INFO	Marionette enabled
+1665003074543	Marionette	INFO	Listening on port 59636
+Read port: 59636
+WebDriver BiDi listening on ws://127.0.0.1:59623
+1665003074650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilegKD6jU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59623/devtools/browser/6c1d62a2-37aa-474b-afc4-b0694461e8b2
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665003079814	Marionette	INFO	Stopped listening on port 59636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1665003079861	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:5761665003384221	geckodriver	INFO	Listening on 127.0.0.1:59991
+1665003387309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileMmabsw"
+1665003387891	Marionette	INFO	Marionette enabled
+1665003387898	Marionette	INFO	Listening on port 60001
+Read port: 60001
+WebDriver BiDi listening on ws://127.0.0.1:59992
+1665003388008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileMmabsw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59992/devtools/browser/8e69516f-c7ab-4998-b86c-0d6487b113f5
+1665003392538	Marionette	INFO	Stopped listening on port 60001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Uber\AppData\Local\Temp\rust_mozprofileMmabsw\protections.sqlite
+1665003589853	geckodriver	INFO	Listening on 127.0.0.1:60228
+1665003592900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile0easRZ"
+1665003593457	Marionette	INFO	Marionette enabled
+1665003593463	Marionette	INFO	Listening on port 60240
+Read port: 60240
+WebDriver BiDi listening on ws://127.0.0.1:60229
+1665003593575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile0easRZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60229/devtools/browser/ad193d77-9d7e-4a11-af03-b0430a02e105
+1665003597801	Marionette	INFO	Stopped listening on port 60240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665004642835	geckodriver	INFO	Listening on 127.0.0.1:61418
+1665004645907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileJs9jWo"
+1665004646519	Marionette	INFO	Marionette enabled
+1665004646525	Marionette	INFO	Listening on port 61429
+WebDriver BiDi listening on ws://127.0.0.1:61419
+Read port: 61429
+1665004646872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileJs9jWo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61419/devtools/browser/0f864a84-27ad-4ed1-a14b-d809911f8243
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665004665615	Marionette	INFO	Stopped listening on port 61429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665005480312	geckodriver	INFO	Listening on 127.0.0.1:62342
+1665005483387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileulECrn"
+1665005483932	Marionette	INFO	Marionette enabled
+1665005483938	Marionette	INFO	Listening on port 62356
+Read port: 62356
+WebDriver BiDi listening on ws://127.0.0.1:62343
+1665005484049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileulECrn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62343/devtools/browser/66ba5023-3f07-4ef0-9d08-692f7bb9cbab
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665005489637	Marionette	INFO	Stopped listening on port 62356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665005538253	geckodriver	INFO	Listening on 127.0.0.1:62464
+1665005541314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilefhSxpL"
+1665005541841	Marionette	INFO	Marionette enabled
+1665005541847	Marionette	INFO	Listening on port 62483
+Read port: 62483
+WebDriver BiDi listening on ws://127.0.0.1:62465
+1665005541952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilefhSxpL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62465/devtools/browser/85104260-85ca-4b93-bb49-a9614ed3a4bf
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665005559080	Marionette	INFO	Stopped listening on port 62483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665005559126	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665005647502	geckodriver	INFO	Listening on 127.0.0.1:62637
+1665005650579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileyVzO1y"
+1665005651114	Marionette	INFO	Marionette enabled
+1665005651120	Marionette	INFO	Listening on port 62653
+Read port: 62653
+WebDriver BiDi listening on ws://127.0.0.1:62638
+1665005651228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileyVzO1y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62638/devtools/browser/a9a6bf95-350e-4cfd-ba6a-376fbe7265d0
+1665005653405	Marionette	INFO	Stopped listening on port 62653
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665005671783	geckodriver	INFO	Listening on 127.0.0.1:62685
+1665005674875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileItgd8f"
+1665005675426	Marionette	INFO	Marionette enabled
+1665005675433	Marionette	INFO	Listening on port 62701
+Read port: 62701
+WebDriver BiDi listening on ws://127.0.0.1:62686
+1665005675540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileItgd8f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62686/devtools/browser/3156ccbc-f3dc-4179-becf-fe8b24a10831
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665005679968	Marionette	INFO	Stopped listening on port 62701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1665006948453	geckodriver	INFO	Listening on 127.0.0.1:64857
+1665006951506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileQurCzu"
+1665006952039	Marionette	INFO	Marionette enabled
+1665006952046	Marionette	INFO	Listening on port 64879
+Read port: 64879
+WebDriver BiDi listening on ws://127.0.0.1:64858
+1665006952157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileQurCzu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64858/devtools/browser/0f4ff96a-ed67-4e60-b3cc-e6f88b15f061
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665009760917	Marionette	INFO	Stopped listening on port 64879
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1665009760958	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+8: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665008749450	Marionette	INFO	Stopped listening on port 49413
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665008749509	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+8: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665008744489	Marionette	INFO	Stopped listening on port 51253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665009372516	geckodriver	INFO	Listening on 127.0.0.1:52739
+1665009375576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilez08voG"
+1665009376130	Marionette	INFO	Marionette enabled
+1665009376137	Marionette	INFO	Listening on port 52751
+Read port: 52751
+WebDriver BiDi listening on ws://127.0.0.1:52740
+1665009376244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilez08voG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52740/devtools/browser/c30bfeeb-4336-4671-a6d0-16a49bc18615
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1664980662, line 3518: TypeError: $(...).followPopup is not a function
+1665009758906	Marionette	INFO	Stopped listening on port 52751
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665093231702	geckodriver	INFO	Listening on 127.0.0.1:49847
+1665093234701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilefwKKqH"
+1665093235708	Marionette	INFO	Marionette enabled
+1665093235715	Marionette	INFO	Listening on port 49857
+Read port: 49857
+WebDriver BiDi listening on ws://127.0.0.1:49848
+1665093235859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilefwKKqH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49848/devtools/browser/a1e1e95c-adb3-46ea-a8f8-14324f68d418
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+1665095425506	Marionette	INFO	Stopped listening on port 49857
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+Exiting due to channel error.
+TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilexZ2VjL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50203/devtools/browser/70c8295a-8b38-4bb4-9f13-419768df51ab
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+1665095425494	Marionette	INFO	Stopped listening on port 50212
+Exiting due to channel error.
+Exiting due to channel error.
+m Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileUC9xTo"
+1665094611527	Marionette	INFO	Marionette enabled
+1665094611534	Marionette	INFO	Listening on port 50612
+Read port: 50612
+WebDriver BiDi listening on ws://127.0.0.1:50603
+1665094611642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileUC9xTo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50603/devtools/browser/9bb54238-da60-45df-97f5-189c583c6ab1
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665094793718	Marionette	INFO	Stopped listening on port 50612
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1665094793802	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1665095002430	geckodriver	INFO	Listening on 127.0.0.1:50940
+1665095005468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileT5fWJE"
+1665095005952	Marionette	INFO	Marionette enabled
+1665095005958	Marionette	INFO	Listening on port 50950
+Read port: 50950
+WebDriver BiDi listening on ws://127.0.0.1:50941
+1665095006078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileT5fWJE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50941/devtools/browser/3e387d62-fb6c-459a-9d4b-bba51d2eaac7
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665095394080	Marionette	INFO	Stopped listening on port 50950
+Error("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofiley2iLKp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51260/devtools/browser/4021fe9b-5369-4bfe-be8a-e10f58d79cd3
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665059656, line 3518: TypeError: $(...).followPopup is not a function
+1665095393032	Marionette	INFO	Stopped listening on port 51269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665167006651	geckodriver	INFO	Listening on 127.0.0.1:55950
+1665167009609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileFHCPtA"
+1665167010194	Marionette	INFO	Marionette enabled
+1665167010201	Marionette	INFO	Listening on port 55978
+Read port: 55978
+WebDriver BiDi listening on ws://127.0.0.1:55951
+1665167010333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileFHCPtA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55951/devtools/browser/e1e27b5b-7e8f-408d-9292-6fdcd3638d6d
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174556965	Marionette	INFO	Stopped listening on port 55978
+Error("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileRmMiOs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59122/devtools/browser/269636cf-b7a8-4590-b3b6-1e853030f625
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1628: Error: permitUnload is already running for this tab.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174555873	Marionette	INFO	Stopped listening on port 59135
+ning on ws://127.0.0.1:62345/devtools/browser/e4c449fb-8a85-42af-b279-2a3d0caaaee4
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1628: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1628: Error: permitUnload is already running for this tab.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174554055	Marionette	INFO	Stopped listening on port 62360
+ompress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174552949	Marionette	INFO	Stopped listening on port 63642
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1665174553148	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+8: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+1665174550864	Marionette	INFO	Stopped listening on port 65483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileOMayZ2"
+1665170832400	Marionette	INFO	Marionette enabled
+1665170832408	Marionette	INFO	Listening on port 49574
+Read port: 49574
+WebDriver BiDi listening on ws://127.0.0.1:49560
+1665170832526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileOMayZ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49560/devtools/browser/8c829dbb-cd35-4cc5-92a3-7417d937f27c
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+JavaScript error: chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm, line 337: TypeError: browsingContext.currentWindowGlobal is null
+1665174549408	Marionette	INFO	Stopped listening on port 49574
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileN1kEMa"
+1665171393900	Marionette	INFO	Marionette enabled
+1665171393907	Marionette	INFO	Listening on port 63433
+Read port: 63433
+WebDriver BiDi listening on ws://127.0.0.1:63422
+1665171394025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileN1kEMa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63422/devtools/browser/54c72896-15fe-4409-8665-98eadf6bf280
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+1665174547734	Marionette	INFO	Stopped listening on port 63433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilexNLGqi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64196/devtools/browser/662f1f90-2b66-4a20-a580-1101fe97c9a4
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174479440	Marionette	INFO	Stopped listening on port 64212
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1665174479516	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+8: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174478511	Marionette	INFO	Stopped listening on port 49252
+Error("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileHVc6oe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49791/devtools/browser/5fcad9fe-f54a-454d-b99a-6d55115bb53e
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+1665174476593	Marionette	INFO	Stopped listening on port 49802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile6B0JEh"
+1665173228805	Marionette	INFO	Marionette enabled
+1665173228812	Marionette	INFO	Listening on port 50731
+WebDriver BiDi listening on ws://127.0.0.1:50718
+Read port: 50731
+1665173229147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile6B0JEh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50718/devtools/browser/69b9023a-3ed4-467b-8f3d-e96e3436d189
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665173411679	Marionette	INFO	Stopped listening on port 50731
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1665173411732	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+1665173763371	geckodriver	INFO	Listening on 127.0.0.1:51749
+1665173766465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileGfUv5X"
+1665173767477	Marionette	INFO	Marionette enabled
+1665173767484	Marionette	INFO	Listening on port 51765
+Read port: 51765
+WebDriver BiDi listening on ws://127.0.0.1:51750
+1665173767595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileGfUv5X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51750/devtools/browser/6aacb7e6-ba1d-4462-927c-a8e96506aaa2
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665143613, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665174475207	Marionette	INFO	Stopped listening on port 51765
+1666039042989	geckodriver	INFO	Listening on 127.0.0.1:52300
+1666039046039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileMIqVjH"
+1666039047186	Marionette	INFO	Marionette enabled
+1666039047195	Marionette	INFO	Listening on port 52315
+Read port: 52315
+WebDriver BiDi listening on ws://127.0.0.1:52301
+1666039047364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileMIqVjH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52301/devtools/browser/3b6e20e3-2826-4c31-ae68-23db2eefc995
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666042497246	Marionette	INFO	Stopped listening on port 52315
+Error("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilelRADvf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52917/devtools/browser/9f73610b-497c-46c0-8fb1-5f8244c335b2
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666042495230	Marionette	INFO	Stopped listening on port 52933
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1666042495300	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+8: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+1666040870491	Marionette	INFO	Stopped listening on port 54853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666041803547	geckodriver	INFO	Listening on 127.0.0.1:56600
+1666041806594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileYfJUYG"
+1666041807589	Marionette	INFO	Marionette enabled
+1666041807595	Marionette	INFO	Listening on port 56614
+Read port: 56614
+WebDriver BiDi listening on ws://127.0.0.1:56601
+1666041807707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileYfJUYG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56601/devtools/browser/c03b99f7-ccac-4f94-b897-ae6ba8d93464
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+1666042493940	Marionette	INFO	Stopped listening on port 56614
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileJc7TYP"
+1666042206136	Marionette	INFO	Marionette enabled
+1666042206143	Marionette	INFO	Listening on port 57400
+Read port: 57400
+WebDriver BiDi listening on ws://127.0.0.1:57364
+1666042206258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileJc7TYP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57364/devtools/browser/1636c764-13d5-46e3-83a9-3a26d4f98ab3
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1665994302, line 3518: TypeError: $(...).followPopup is not a function
+1666042492369	Marionette	INFO	Stopped listening on port 57400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666533502570	geckodriver	INFO	Listening on 127.0.0.1:55071
+1666533505689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileNhLSbL"
+1667852913522	geckodriver	INFO	Listening on 127.0.0.1:55441
+1667852916571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilekew4Lw"
+1667852992589	geckodriver	INFO	Listening on 127.0.0.1:55581
+1667852995657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileHI0rpB"
+1667852996194	Marionette	INFO	Marionette enabled
+1667852996200	Marionette	INFO	Listening on port 55597
+Read port: 55597
+WebDriver BiDi listening on ws://127.0.0.1:55582
+1667852996306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileHI0rpB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55582/devtools/browser/93773349-605d-4ffd-877c-976a7015a1ce
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1667834628, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1667834628, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1667834628, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1667834628, line 3518: TypeError: $(...).followPopup is not a function
+1667854074387	Marionette	INFO	Stopped listening on port 55597
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667854074519	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1673617887914	geckodriver	INFO	Listening on 127.0.0.1:56495
+1673617891014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileMYbETn"
+1673617892069	Marionette	INFO	Marionette enabled
+1673617892076	Marionette	INFO	Listening on port 56505
+Read port: 56505
+WebDriver BiDi listening on ws://127.0.0.1:56496
+1673617892222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileMYbETn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56496/devtools/browser/0f0e2d87-84b5-44c5-a301-36e873062ea1
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673539609, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673539609, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673539609, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673539609, line 3518: TypeError: $(...).followPopup is not a function
+1673618080813	Marionette	INFO	Stopped listening on port 56505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673644985750	geckodriver	INFO	Listening on 127.0.0.1:57330
+1673644988856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilePxtZO3"
+1673644989443	Marionette	INFO	Marionette enabled
+1673644989450	Marionette	INFO	Listening on port 57340
+Read port: 57340
+WebDriver BiDi listening on ws://127.0.0.1:57331
+1673644989594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilePxtZO3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57331/devtools/browser/9ce6c6af-3665-47c3-9b26-4b198bcd6886
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673645674798	Marionette	INFO	Stopped listening on port 57340
+1673645694307	geckodriver	INFO	Listening on 127.0.0.1:57896
+1673645697382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilenyM9uH"
+1673645697907	Marionette	INFO	Marionette enabled
+1673645697913	Marionette	INFO	Listening on port 57907
+Read port: 57907
+WebDriver BiDi listening on ws://127.0.0.1:57897
+1673645698026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilenyM9uH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57897/devtools/browser/de9882bb-0587-4bbb-bb4d-cc4955930e3c
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1673629138, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673646513114	Marionette	INFO	Stopped listening on port 57907
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673646513174	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+1674226707599	geckodriver	INFO	Listening on 127.0.0.1:51043
+1674226710663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileiEM0ta"
+1674226711141	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674226711147	Marionette	INFO	Listening on port 51051
+Read port: 51051
+WebDriver BiDi listening on ws://127.0.0.1:51044
+1674226711302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofileiEM0ta\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51044/devtools/browser/e4fb6553-a31e-49be-9907-cf9f26ec13ba
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+1674226980604	Marionette	INFO	Stopped listening on port 51051
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674236049500	geckodriver	INFO	Listening on 127.0.0.1:57777
+1674236052520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilelukG3n"
+1674236053514	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674236053522	Marionette	INFO	Listening on port 57790
+Read port: 57790
+WebDriver BiDi listening on ws://127.0.0.1:57778
+1674236053698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofilelukG3n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57778/devtools/browser/7d3cc7bf-bce6-498a-831f-bb79393cb3b6
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+1674236106657	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+1674236113607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1674236119593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+1674236170593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+1674236182973	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674236764157	Marionette	INFO	Stopped listening on port 57790
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1674236764285	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:229
+observe()@resource://gre/modules/AsyncShutdown.jsm:572
+1674244269861	geckodriver	INFO	Listening on 127.0.0.1:51363
+1674244272893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile9y7fgh"
+1674244273660	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674244273667	Marionette	INFO	Listening on port 51411
+Read port: 51411
+WebDriver BiDi listening on ws://127.0.0.1:51364
+1674244273835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile9y7fgh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51364/devtools/browser/8b53365e-d545-4965-ad36-52a24ae0f7a3
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+1674251540697	Marionette	INFO	Stopped listening on port 51411
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

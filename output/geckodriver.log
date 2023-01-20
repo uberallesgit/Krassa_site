@@ -1,0 +1,17 @@
+1674252158053	geckodriver	INFO	Listening on 127.0.0.1:61100
+1674252161139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile470rsA"
+1674252161969	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674252161975	Marionette	INFO	Listening on port 61108
+Read port: 61108
+WebDriver BiDi listening on ws://127.0.0.1:61101
+1674252162082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Uber\\AppData\\Local\\Temp\\rust_mozprofile470rsA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61101/devtools/browser/36e9fb89-6bbb-4a34-9a69-22ccc9df2483
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://school-perv.educrimea.ru."
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+JavaScript error: https://school-perv.educrimea.ru/assets/compress/eduou2.pack.js?v=1674220022, line 3518: TypeError: $(...).followPopup is not a function
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
